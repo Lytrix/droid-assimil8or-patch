@@ -1,4 +1,4 @@
-# droid-assimilor-patch
+# droid-assimil8or-patch
 Droid patch for slicing and sequencing a 1 bar drum loop on Assimil8or and a M4.
 It provides 16 slices of a 1 bar drumloop using the M4 notches to select a sample for each of the 16 steps.
 Besides a main swing groove using the pots, it has 2 tracks with also an added timing page to adjust the groove of each 4 16th steps in each quarter note.
